@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"     # ejecuta cada día a medianoche UTC
+  workflow_dispatch:          # para correrlo manualmente
+permissions:
+  contents: write
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          base: "header, repositories"
+          plugin_languages: yes
