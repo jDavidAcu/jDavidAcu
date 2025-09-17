@@ -29,9 +29,7 @@ Además de programar, me apasionan los **videojuegos**, la **fotografía** y exp
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jDavidAcu&theme=default)](https://git.io/streak-stats)
 
-[![jDavidAcu GitHub Stats](https://github-readme-stats.vercel.app/api?username=jDavidAcu&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jDavidAcu&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Mis métricas](https://raw.githubusercontent.com/jDavidAcu/jDavidAcu/main/metrics.svg)
 
 ---
 
