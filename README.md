@@ -1,6 +1,6 @@
 # 👋 Hola, soy José David Acuña Ochoa
 
-## 🎓 Estudiante de Ingeniería en Sistemas de Información  
+## 🎓 Ingeniero en Sistemas de Información  
 Apasionado por la **tecnología**, los **videojuegos** 🎮 y la **fotografía** 📷.  
 Siempre busco aprender cosas nuevas, explorar ideas y desarrollar proyectos que me reten.  
 ¡Estoy muy contento de que estés aquí visitando mi GitHub!
@@ -9,7 +9,7 @@ Siempre busco aprender cosas nuevas, explorar ideas y desarrollar proyectos que 
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas de Información**, entusiasta de la tecnología y siempre con ganas de aprender algo nuevo. Me encanta experimentar, desarrollar proyectos interesantes y seguir creciendo como profesional.
+Soy un **Ingeniero en Sistemas de Información**, entusiasta de la tecnología y siempre con ganas de aprender algo nuevo. Me encanta experimentar, desarrollar proyectos interesantes y seguir creciendo como profesional.
 
 Además de programar, me apasionan los **videojuegos**, la **fotografía** y explorar nuevas ideas todo el tiempo. Estoy muy contento de que estés visitando mi GitHub, ¡espero que encuentres algo que te guste!
 
